@@ -1,7 +1,8 @@
 ![Header](https://github.com/NoelOsiro/NoelOsiro/blob/main/banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Noel Osiro</h1>
-<h3 align="center">A Software Developer and Cloud Architect from Kenya</h3>
-##Achievements
+<h2 align="center">A Software Developer and Cloud Architect from Kenya</h2>
+
+<h3 align="center">Achievements</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=noelosiro&label=Profile%20views&color=0e75b6&style=flat" alt="noelosiro" /></p>
 

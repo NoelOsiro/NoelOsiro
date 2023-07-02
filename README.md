@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-	<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+	<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer" style="margin-right:10px">
 		<img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" />
 	</a>
 	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">

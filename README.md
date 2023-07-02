@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoelOsiro&show_icons=true)](https://github.com/NoelOsiro/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoelOsiro&show_icons=true&theme=radical)](https://github.com/NoelOsiro/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoelOsiro)](https://github.com/NoelOsiro/github-readme-stats)
 <!--
 **NoelOsiro/NoelOsiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

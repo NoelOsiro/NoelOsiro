@@ -14,8 +14,10 @@
 	<a href="https://twitter.com/noelosiroski" target="blank"><img src="https://img.shields.io/twitter/follow/noelosiroski?logo=twitter&style=for-the-badge" alt="noelosiroski" /></a>
 </p>
 
-- 🔭 I’m currently working on [Dental Clinic Management System](https://github.com/NoelOsiro/DentalArt) - 🌱 I’m currently learning **C programming** - 💬 Ask me about **MERN Full stack development** - 📫 How to reach me
-**noelosiroski@gmail.com**
+- 🔭 I’m currently working on [Dental Clinic Management System](https://github.com/NoelOsiro/DentalArt)
+-  🌱 I’m currently learning **C programming**
+-  💬 Ask me about **MERN Full stack development**
+-  📫 How to reach me **noelosiroski@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
